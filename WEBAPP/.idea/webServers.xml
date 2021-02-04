@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="6a2d63d5-ad96-4b16-a71d-a928a86cb5ed" name="ampps" url="http://localhost">
-        <fileTransfer mountedRoot="C:\Program Files\Ampps\www" accessType="MOUNT" port="0" />
+      <webServer id="6a2d63d5-ad96-4b16-a71d-a928a86cb5ed" name="ampps" url="http://localhost/WEBAPP">
+        <fileTransfer mountedRoot="C:\Program Files\Ampps\www\WEBAPP" accessType="MOUNT" port="0" />
       </webServer>
     </option>
   </component>
